@@ -10,7 +10,7 @@ public class forloop {
 		
 		for (int i = 0111111111; i < 0222222222; i++) {
 			
-			System.out.println(i);
+			System.out.println("number = "+i);
 			
 		}
 
